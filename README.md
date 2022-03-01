@@ -32,6 +32,7 @@
   </ul> 
 
 </details>
+
 ![Colored Dithered](lioncol.jpeg)
 <br />
 <br />
