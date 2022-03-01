@@ -32,11 +32,9 @@
   </ul> 
 
 </details>
-
-![Black and White Dithered](lionbw.jpeg)
-<br />
-<br />
 ![Colored Dithered](lioncol.jpeg)
+<br />
+<br />
 <!--Strippling -->
 ## <a name="stippling" />What is Stippling?
 Stippling is a process where any chosen image can be represented as dots instead of pixels.
